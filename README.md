@@ -1,5 +1,4 @@
-#### 👋 I'm a JS dev who loves Node, Express, PostgreSQL, and MongoDB. I build fast and reliable backend services and APIs.
-
+#### 👋 Greetings, my name is Mahmoud Alnakeeb and this is my GitHub account. I wish you a pleasant experience.
 <br/>
 <br/>
 <br/>
