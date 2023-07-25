@@ -1,6 +1,6 @@
 ### 👋 Greetings, my name is Mahmoud Alnakeeb and this is my GitHub account. I wish you a pleasant experience.
-<hr/>
 <br/>
+<hr/>
 
 #### interests
   - Backend development 👨‍💻
