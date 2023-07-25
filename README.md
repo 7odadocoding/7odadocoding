@@ -1,4 +1,11 @@
 #### 👋 Greetings, my name is Mahmoud Alnakeeb and this is my GitHub account. I wish you a pleasant experience.
+#### interests
+  - Backend development 👨‍💻
+  - Javascript 💛
+  - Typescript 💙
+  - Game dev 🎮
+  - Scripts #️⃣
+  - Automation 🔁
 <br/>
 <br/>
 <br/>
