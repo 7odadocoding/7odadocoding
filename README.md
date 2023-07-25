@@ -1,4 +1,7 @@
-#### 👋 Greetings, my name is Mahmoud Alnakeeb and this is my GitHub account. I wish you a pleasant experience.
+### 👋 Greetings, my name is Mahmoud Alnakeeb and this is my GitHub account. I wish you a pleasant experience.
+<hr/>
+<br/>
+
 #### interests
   - Backend development 👨‍💻
   - Javascript 💛
@@ -6,9 +9,8 @@
   - Game dev 🎮
   - Scripts #️⃣
   - Automation 🔁
-<br/>
-<br/>
-<br/>
 
+<hr/>
+<br/>
 #### Can you help me get better stats?
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=7odadocoding&show_icons=true&locale=en" alt="7odadocoding" /> 
