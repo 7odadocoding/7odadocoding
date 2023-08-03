@@ -5,13 +5,14 @@
 <br/>
 
 ```javascript
+
 const myInterests = [
-  'Backend development 👨‍💻',
-  'Javascript 💛',
-  'Typescript 💙',				
-  'Game dev 🎮',
-  'Scripts #️⃣',
-  'Automation 🔁'
+  'Backend development 💻',
+  'Javascript 🟡',
+  'Typescript 🔵',
+  'Game dev 🕹️',
+  'Scripts 📜',
+  'Automation ⚙️'
 ]
 
 ```
